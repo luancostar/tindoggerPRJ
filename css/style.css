@@ -1,6 +1,7 @@
 html{
     background-color: #fff;
 }
+/* Aqui as edições do primeiro container */
 .primaryContent{
     margin-left: 100px;
 }
@@ -13,12 +14,52 @@ html{
 }
 .primaryContent img{
     
-    width: 600px;
+    width: 550px;
     margin-left: 550px;
-    margin-top: -200px;
+    margin-top: -220px;
 
 
 }
+/*Aqui as edições do segundo container */
+.secondContent{
+    margin-left: 1050px;
+}
+.secondContent img{
+    width: 550px;
+    margin-left: -700px;
+    margin-top: -250px;
+}
+.secondContent h2{
+    margin-top: 60px;
+    font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+}
+/* Aqui as edições do terceiro container */
+.thirdContent{
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+.thirdContent h3{
+    margin-top: 70px;
+    font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+}
+.thirdContent img{
+    width: 550px;
+    margin-left: 600px;
+    margin-top: -280px;
+}
+/* Aqui está o footer */
+.footer p{
+    text-align: center;
+}
+footer{
+    height: 30px;
+}
+
+/* A partir daqui ficam somente as interações de cabeçalho */
 header{
     font-family: 'Fredoka One', cursive;
     
