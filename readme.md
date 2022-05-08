@@ -4,4 +4,4 @@ apenas fazendo alusão ao Tinder e trazendo isso para o lado mais humanizado e s
 
 Foi utilizado html, css e um pouco de Bulma.
 
-<img src="https://raw.githubusercontent.com/luancostar/tindoggerPRJ/master/imgfor/preview.JPG"
+<img src="https://raw.githubusercontent.com/luancostar/tindoggerPRJ/master/imgfor/preview.JPG">
