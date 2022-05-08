@@ -1,6 +1,9 @@
 html{
     background-color: #fff;
 }
+header{
+  height: 70px;
+}
 /* Aqui as edições do primeiro container */
 .primaryContent{
     margin-left: 100px;
