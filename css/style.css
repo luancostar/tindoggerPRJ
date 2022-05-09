@@ -127,8 +127,24 @@ p{
 .secondContent p{
     text-align: start;
    margin-left: -40px;
-   margin-top: -30px;
+   margin-top: -50px;
 
 }
-
+/* Aqui começa a responsividade do terceiro container */
+.thirdContent{
+    display: grid;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.thirdContent img{
+    margin-left: -50px;
+    width: 480px;
+    margin-top: -560px;
+}
+.thirdContent h3{
+    margin-left: -40px;
+}
+.thirdContent p{
+    margin-left: -40px;
+}
 }
