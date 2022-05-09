@@ -85,7 +85,7 @@ p{
 .primaryContent h1{
     text-align:left;
     margin-top: 270px;
-    margin-left: -40px
+    margin-left: -55px
 }
 .primaryContent img{
     
@@ -96,7 +96,7 @@ p{
 .primaryContent p{
    
    text-align:start;
-   margin-left: -40px;
+   margin-left: -55px;
 }
 /* Aqui começa a responsividade do segundo container */
 
@@ -120,13 +120,13 @@ p{
     margin-top: 90px;
     text-align: left;
     padding-top: 80px;
-    margin-left: -40px;
+    margin-left: -55px;
     
     
 }
 .secondContent p{
     text-align: start;
-   margin-left: -40px;
+   margin-left: -55px;
    margin-top: -50px;
 
 }
@@ -142,9 +142,9 @@ p{
     margin-top: -560px;
 }
 .thirdContent h3{
-    margin-left: -40px;
+    margin-left: -55px;
 }
 .thirdContent p{
-    margin-left: -40px;
+    margin-left: -55px;
 }
 }
