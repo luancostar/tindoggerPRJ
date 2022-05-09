@@ -76,37 +76,59 @@ p{
     html{
         background-color: 
 }
+
 .primaryContent{
    display: grid;
    align-items: center;
 }
 
 .primaryContent h1{
-    text-align: start;
-    margin-top: 300px;
-    
+    text-align:left;
+    margin-top: 270px;
+    margin-left: -40px
 }
 .primaryContent img{
     
    margin-left: -55px;
    margin-top: -1000px;
-   background-color: 
+
 }
 .primaryContent p{
    
    text-align:start;
+   margin-left: -40px;
 }
 /* Aqui começa a responsividade do segundo container */
 
 .secondContent{
-    b
+    
+    margin-left: 100px;
+    margin-top: 140px;
+    display: grid;
+    height: 648px;
 
 }
+
     
 .secondContent img{
+    margin-top: -700px;
+    width: 450px;
+    margin-left: -55px;
 }
    
 .secondContent h2{
+    margin-top: 90px;
+    text-align: left;
+    padding-top: 80px;
+    margin-left: -40px;
+    
     
 }
+.secondContent p{
+    text-align: start;
+   margin-left: -40px;
+   margin-top: -30px;
+
+}
+
 }
