@@ -97,6 +97,7 @@ p{
    
    text-align:start;
    margin-left: -55px;
+   width: 320px;
 }
 /* Aqui começa a responsividade do segundo container */
 
@@ -128,7 +129,7 @@ p{
     text-align: start;
    margin-left: -55px;
    margin-top: -50px;
-
+   width: 320px;
 }
 /* Aqui começa a responsividade do terceiro container */
 .thirdContent{
@@ -146,5 +147,6 @@ p{
 }
 .thirdContent p{
     margin-left: -55px;
+    width: 320px;
 }
 }
