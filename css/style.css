@@ -3,6 +3,7 @@ html{
 }
 header{
   height: 70px;
+
 }
 /* Aqui as edições do primeiro container */
 .primaryContent{
@@ -25,7 +26,7 @@ header{
 }
 /*Aqui as edições do segundo container */
 .secondContent{
-    margin-left: 1050px;
+    margin-left: 950px;
 }
 .secondContent img{
     width: 550px;
@@ -40,7 +41,7 @@ header{
 }
 /* Aqui as edições do terceiro container */
 .thirdContent{
-    margin-left: 400px;
+    margin-left: 300px;
     margin-bottom: 50px;
 }
 .thirdContent h3{
