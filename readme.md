@@ -10,7 +10,7 @@ Foi utilizado html, css e um pouco de Bulma. <br>
 Quer ver a página no ar? Acesse: https://luancostar.github.io/tindoggerPRJ/ 🤘🏻
 
 <img src="https://raw.githubusercontent.com/luancostar/tindoggerPRJ/master/imgfor/preview.JPG">
-<img src="https://raw.githubusercontent.com/luancostar/tindoggerPRJ/master/imgfor/mobilegeral.jpg"
+<img src="https://raw.githubusercontent.com/luancostar/tindoggerPRJ/master/imgfor/mobilegeral.jpg">
 
 
 
