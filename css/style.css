@@ -150,4 +150,18 @@ p{
     margin-left: -55px;
     width: 320px;
 }
+.menujs {
+    display: block;
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+    background-color: red;
+    
+}
+.menujs a{
+   border-bottom: solid grey 1px;
+}
+
+.menujs .navbar-item{
+    
 }
