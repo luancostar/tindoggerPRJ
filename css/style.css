@@ -152,16 +152,36 @@ p{
 }
 .menujs {
     display: block;
-    text-align: center;
-    padding-right: 15%;
-    padding-left: 15%;
-    background-color: red;
+    text-align: right;
     
+ 
+}
+.menujs button{
+    font-size: 10px;
 }
 .menujs a{
-   border-bottom: solid grey 1px;
+  
 }
 
 .menujs .navbar-item{
     
+}
+span.login{
+    display: none;
+   
+}
+span.register{
+    display:none;
+}
+.navbar-end{
+    display: flex;
+    margin-top: -330px;
+    margin-left: 200px;
+   
+}
+.navbar-start{   
+    
+    
+    
+}
 }
