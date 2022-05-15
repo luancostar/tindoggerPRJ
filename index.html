@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="js/script.js"></script>
     <script src="https://kit.fontawesome.com/7a8d54eabc.js" crossorigin="anonymous"></script>
     <title>tindogger.com</title>
 </head>
@@ -20,16 +21,17 @@
               <img src="assets/2-removebg-preview (1).png" alt="Tindogger: Match é Pet" width="140px">
               
               </a>
-              <div class="navbar-burger" data-target="navbarExampleTransparentExample">
+            
+              <div id ="navbar-burger" class="navbar-burger" onclick="openNav()"  data-target="navbarExampleTransparentExample">
                 <span></span>
                 <span></span>
                 <span></span>
               </div>
             </div>
           
-            <div id="navbarExampleTransparentExample" class="navbar-menu">
+            <div id="navbar-menu" class="navbar-menu">
               <div class="navbar-start">
-                <button class="button is-danger is-hovered" style="margin-top:6px"><strong><i class="fas fa-search"> </i> Encontre seu pet!</strong></button>
+                <button class="button is-danger is-hovered" style="margin-top:20px"><strong><i class="fas fa-search"> </i> Encontre seu pet!</strong></button>
                 </a>
                 <div class="navbar-item has-dropdown is-hoverable">
                   <a class="navbar-link" href="">
@@ -39,20 +41,16 @@
                     <a class="navbar-item" href="">
                       Cães
                     </a>
-                    
                     <a class="navbar-item" href="">
                       Fotos
                     </a>
-                   
-                    <a class="navbar-item" href="">
-                      Contato
-                    </a>
-                    <hr class="navbar-divider">
+                    
                     <a class="navbar-item" href="">
                       Sobre
                     </a>
-                    <a class="navbar-item is-active" href="/">
-                      Ajuda
+                    <hr class="navbar-divider">
+                    <a class="navbar-item" href="">
+                      Contato
                     </a>
                   </div>
                 </div>
@@ -60,13 +58,13 @@
           
               <div class="navbar-end">
                 <div class="navbar-item">
-                  <div class="field is-grouped">
+                  <div class="field is-grouped" >
                     <p class="control">
-                      <a class="bd-tw-button button" data-social-network="Login" data-social-action="login" data-social-target="" target="_blank" href="">
+                      <a class="bd-tw-button button" data-social-network="Login" data-social-action="login" data-social-target=" "href="">
                         <span class="icon">
                           <i class="fas fa-door-open"></i>
                         </span>
-                        <span>
+                        <span class="login">
                           Login
                         </span>
                       </a>
@@ -76,7 +74,7 @@
                         <span class="icon">
                           <i class="fas fa-user-plus"></i>
                         </span>
-                        <span>Registre-se</span>
+                        <span class="register">Registre-se</span>
                       </a>
                     </p>
                   </div>
