@@ -47,7 +47,7 @@ header{
 .thirdContent h3{
     margin-top: 70px;
     font-size: 30px;
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', 'cursive';
     display: flex;
 }
 .thirdContent img{
@@ -65,19 +65,18 @@ footer{
 
 /* A partir daqui ficam somente as interações de cabeçalho */
 header{
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', 'cursive';
     
 }
 p{
     text-align:start;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1000px){
 
     html{
         background-color: 
 }
-
 .primaryContent{
    display: grid;
    align-items: center;
@@ -177,11 +176,5 @@ span.register{
     display: flex;
     margin-top: -330px;
     margin-left: 200px;
-   
-}
-.navbar-start{   
-    
-    
-    
-}
+ 
 }
